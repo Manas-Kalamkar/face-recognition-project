@@ -1,0 +1,12 @@
+# Ignore Python files and folders
+__pycache__/
+*.pyc
+*.pkl
+
+# Ignore node_modules and React build
+client/node_modules/
+client/dist/
+
+# Ignore OS files
+.DS_Store
+*.swp
