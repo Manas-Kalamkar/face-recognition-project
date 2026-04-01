@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
 
-import Button from "./ui/Button";
+import Button from "../ui/Button"
 
 const Login = () => {
 
