@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tensorflow==2.16.2
+mtcnn
+numpy
+opencv-python
+python-multipart
+Pillow
+scipy
+keras-facenet
